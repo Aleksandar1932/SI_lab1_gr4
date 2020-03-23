@@ -1,8 +1,7 @@
 class Point {
-	String id
+	String id;
+	String color;
 	double x,y;
-
-	//TODO add new variable
 
 	//TODO constructor
 
